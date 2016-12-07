@@ -1,0 +1,5 @@
+ Velocidad : 70.0
+ Velocidad : 110.0
+ Velocidad : 165.0
+ Velocidad : 125.0
+{ariel=70, ciril=20, alexis=20, blanca=190}
